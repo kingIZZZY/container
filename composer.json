@@ -21,8 +21,8 @@
     ],
     "require": {
         "php": "^8.2",
-        "hyperf/context": "~3.1.0",
-        "hyperf/di": "~3.1.0"
+        "hyperf/context": "3.2.x-dev",
+        "hyperf/di": "3.2.x-dev"
     },
     "autoload": {
         "psr-4": {
